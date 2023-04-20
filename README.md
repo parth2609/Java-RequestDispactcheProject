@@ -1,2 +1,2 @@
 # Java-RequestDispactcheProject
-JAVA(Servlet)+HTML
+Servlet+HTML
